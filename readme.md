@@ -1,13 +1,13 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Guillaume-Reboullet.com">Al Siam</a></b>
+                <b>Guillaume Reboullet</b>
         </samp>
 </h3>
 
 
 <p align="center"> 
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Paris</b> 」
     <br>
     <br>
   </samp>
