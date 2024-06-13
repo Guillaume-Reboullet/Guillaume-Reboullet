@@ -23,11 +23,9 @@
 <br/>
 <br/>
 <br/>
-<br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: guillaume.reboulley@epitech.eu<br/><br/>
-<br/>
 <br/>
 <br/>
 <br/>
